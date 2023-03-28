@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Magpie": {
+      "commandName": "Project",
+      "commandLineArgs": "1013 -cn",
+      "nativeDebugging": true
+    }
+  }
+}
